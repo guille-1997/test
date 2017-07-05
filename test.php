@@ -2,7 +2,7 @@
 
 class test {
 
-   /**
+	/**
 	* Returns plan discount.
 	*
 	* @param $param;
@@ -13,8 +13,8 @@ class test {
 		return '';
 	}
 
-
-   /**
+	
+	/**
 	* @return float
 	*/
 	public function test2()
@@ -23,7 +23,7 @@ class test {
 	}
 
 
-   /**
+	/**
 	* Returns plan discount.
 	*
 	* @throws \Exception 
