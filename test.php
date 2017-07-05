@@ -6,7 +6,6 @@ class test
      * Returns plan discount.
      *
      * @param $param;
-     *
      * @return float
      */
     public function test($param)
@@ -26,23 +25,30 @@ class test
      * Returns plan discount.
      *
      * @throws \Exception
-     *
      * @return float
      */
     public function test3()
     {
         return '';
     }
-    
+
     /**
      * @throws \Exception
      * @return float
      */
-    public function test4()
+    public function test5()
     {
         return '';
     }
     
+    /**
+     * @throws \Exception
+     */
+    public function test3()
+    {
+        return '';
+    }
+        
     
     
     
