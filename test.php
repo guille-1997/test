@@ -3,7 +3,7 @@
 class test
 {
     /**
-     * Returns plan discount.
+     * Returns plan discounts.
      *
      * @param $param;
      * @return float
