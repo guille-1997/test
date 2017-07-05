@@ -45,7 +45,7 @@ class test
      * Returns plan discount.
      * @throws \Exception
      */
-    public function test3()
+    public function test6()
     {
         return '';
     }
