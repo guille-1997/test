@@ -40,7 +40,7 @@ class test
     {
         return '';
     }
-    
+
     /**
      * @throws \Exception
      */
