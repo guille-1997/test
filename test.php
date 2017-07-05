@@ -42,6 +42,7 @@ class test
     }
 
     /**
+     * Returns plan discount.
      * @throws \Exception
      */
     public function test3()
