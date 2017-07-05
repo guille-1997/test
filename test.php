@@ -33,4 +33,17 @@ class test
     {
         return '';
     }
+    
+    /**
+     * @throws \Exception
+     * @return float
+     */
+    public function test4()
+    {
+        return '';
+    }
+    
+    
+    
+    
 }
